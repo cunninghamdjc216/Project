@@ -1,0 +1,27 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  
+}
+.One{
+  color:#F25278 ;
+}
+
+
+h1{
+  color: #630436;
+  font-family: 'Akaya Telivigala';font-size: 22px;
+  border: 4px inset #BF0A30;
+
+
+}
+a{
+  color:  #660E44
+;
+}
+h5{
+  color:#660E44;
+}
+.Two{
+  color: #AA187D;
+}
